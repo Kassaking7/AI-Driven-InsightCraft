@@ -1,6 +1,6 @@
 # AIGC-BI-Platform
 
-**Codes have been movecd to https://github.com/AI-Driven-InsightCraft**
+**Codes have been moved to https://github.com/AI-Driven-InsightCraft**
 
 A full-stack intelligent data analysis platform developed using Springboot and React
 Developed automatic generation of visual charts and analysis
