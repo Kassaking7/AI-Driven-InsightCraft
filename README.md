@@ -1,4 +1,4 @@
-# AIGC-BI-Platform
+# AI-Driven-InsightCraft
 
 **Codes have been moved to https://github.com/AI-Driven-InsightCraft**
 
